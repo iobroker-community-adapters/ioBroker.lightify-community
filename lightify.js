@@ -58,7 +58,7 @@ var adapter = soef.Adapter(
     onStateChange,
     onUnload,
     onUpdate,
-    { name: 'lightify' }
+    { name: 'lightify-community' }
 );
 
 adapter.on('message', function (obj) {
