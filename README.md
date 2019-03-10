@@ -15,6 +15,9 @@ ioBroker Adapter for [OSRAM Lightify](http://led.osram.de/led_de/lightify/index.
 ## Info
 The state names are inspired by the Hue adapter.
 
+### Initial Creation
+This adapter was initialy created by @soef at https://github.com/soef/ioBroker.lightify but not maintained any more, so we moved it to iobroker-community so that bugs could be fixed. thanks @soef for his work.
+
 ### How to use the command state:
 * Possible identifiers are: ``red, r, green, g, blue, b, bri, sat, transition, on, off``
 * The string can be a JSON with or without parentheses. 
