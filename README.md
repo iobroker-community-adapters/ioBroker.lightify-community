@@ -2,7 +2,7 @@
 # ioBroker.lightify 
 =========================
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.lightify.svg)](https://www.npmjs.com/package/iobroker.lightify)
+![Number of Installations](http://iobroker.live/badges/lightify-community-installed.svg) ![Number of Installations](http://iobroker.live/badges/lightify-community-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.lightify.svg)](https://www.npmjs.com/package/iobroker.lightify)
 [![Tests](http://img.shields.io/travis/soef/ioBroker.lightify/master.svg)](https://travis-ci.org/soef/ioBroker.lightify)
 [![Build status](https://ci.appveyor.com/api/projects/status/22g73bivc5vkvdr7?svg=true)](https://ci.appveyor.com/project/soef/iobroker-lightify)
 
